@@ -15,4 +15,4 @@ This code assumes you have the Type Person created in Namespace CustomTypes and 
 Looking at [Program.cs](./Program.cs) we see successfull creation of [Person objects](./People) in the runspaces and passing those Custom types around the application.
 
 #### Expected output
-![](./output.jpg)<br>
+![](./output.png)<br>
